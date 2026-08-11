@@ -1,0 +1,9 @@
+# Compiled build outputs
+*.exe
+*.o
+*.obj
+*.out
+
+# Python cache files
+__pycache__/
+*.py[cod]
