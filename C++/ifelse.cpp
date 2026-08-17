@@ -9,7 +9,7 @@ int main(){
     if(marks<0|| marks>100){
         cout<<"Invalid Marks! Please enter a value between 0 and 100.\n";
     }
-    if(marks>=90){
+    else if(marks>=90){
         cout<<"Grade A\n";
     }
     else if(marks>=75){
